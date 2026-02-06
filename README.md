@@ -30,7 +30,7 @@ Final CTA section
 
 Footer with multi-column links
 
-<img width="1600" height="900" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/b4b9138a-aa80-49d8-b0cb-9c903c4febc7" />
+
 
 <img width="1600" height="823" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/31ecc7e4-ccfd-455d-9a3e-39669e51cab0" />
 
