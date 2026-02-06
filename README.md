@@ -23,11 +23,29 @@ Hero section with CTA
 
 Changelog section
 
-Team section with large image
 
 Recent highlights / blog section
 
 Final CTA section
 
 Footer with multi-column links
+
+<img width="1600" height="900" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/b4b9138a-aa80-49d8-b0cb-9c903c4febc7" />
+
+<img width="1600" height="823" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/31ecc7e4-ccfd-455d-9a3e-39669e51cab0" />
+
+<img width="1598" height="827" alt="Screenshot (704)" src="https://github.com/user-attachments/assets/846457fe-afc5-45f2-97f7-b01cd80b29bc" />
+
+
+<img width="1561" height="812" alt="Screenshot (705)" src="https://github.com/user-attachments/assets/74b3c643-e1ca-4d32-9beb-c06778f92932" />
+
+
+
+
+
+
+
+
+
+
 
